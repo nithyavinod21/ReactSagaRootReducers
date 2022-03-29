@@ -1,0 +1,38 @@
+{
+  "foodbloglist":[
+  {
+      "id": 1,
+      "name": "Brown eggs",
+      "type": "dairy",
+      "description": "Raw organic brown eggs in a basket",
+      "price": 28.1,
+      "rating": 4    
+  },
+  {
+    "id": 2,
+    "name": "Fresh stawberry",
+    "type": "fruit",
+    "description": "Sweet fresh stawberry on the wooden table",
+    "price": 28.59,
+    "rating": 3  
+      
+  },
+  {
+    "id": 3,
+    "name": "Fresh tomato",
+    "type": "vegetable",
+    "description": "Healthy breakfast set.",
+    "price": 18.4,
+    "rating": 2 
+  },
+  {
+    "id": 4,
+    "name": "Homemade bread",
+    "type": "bakery",
+    "description": "Healthy Home made bread",
+    "price": 17.48,
+    "rating": 4  
+  }
+]
+
+}
